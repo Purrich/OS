@@ -1,0 +1,3 @@
+ls -l respawn
+echo 3 respawn
+echo 1 wait

@@ -1,0 +1,10 @@
+name password
+имя 1231
+root пароль
+noname6 psswd6
+нехватка фантазии
+maincpp hisPassword
+cat hereiam1
+user userPassword
+надо дописатькод
+newName17 newPassword17
